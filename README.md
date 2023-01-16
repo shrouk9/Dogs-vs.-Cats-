@@ -17,7 +17,7 @@ in this project I trained a Convolutional Neural Networks(CNN) to predict whethe
 - Define the CNN model.
 
 - Training the model.
-- 
+
 - Save the Model.
 
 - Capturing the predictions and labelling the predictions whether cat or dog (1 = dog, 0 = cat).
